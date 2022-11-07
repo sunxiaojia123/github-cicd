@@ -8,5 +8,5 @@ func main() {
 }
 
 func Cat() string {
-	return "wang~~~~~~~"
+	return "miao~~~~~~~"
 }
